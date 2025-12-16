@@ -36,10 +36,9 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-[EX 5.2 Deepika.pdf](https://github.com/user-attachments/files/24192676/EX.5.2.Deepika.pdf)
+[EDM EX 5.2 Drawing.pdf](https://github.com/user-attachments/files/24192716/EDM.EX.5.2.Drawing.pdf)
+<img width="942" height="665" alt="image" src="https://github.com/user-attachments/assets/e2c99720-d0da-4dec-ae0a-eb85ea3d6857" />
 
-
-<img width="1112" height="794" alt="image" src="https://github.com/user-attachments/assets/72413588-8e41-4f7a-97f5-b94f13dd71c9" />
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
